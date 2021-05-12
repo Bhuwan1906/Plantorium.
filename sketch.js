@@ -9,7 +9,7 @@ var Letsplant_img,menu_img;
 
 
 function setup(){
-  canvas = createCanvas(displayWidth,displayHeight);
+  canvas = createCanvas(windowWidth,windowHeight);
  
 
   rose= new Rose();
